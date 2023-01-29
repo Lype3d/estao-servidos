@@ -45,42 +45,42 @@
         {
             "id": 1,
             "id-categoria": 2,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+            "direcao": "Andrew Adamson",
+            "ano": "2005",
+            "sinopse": "Durante os bombardeios da Segunda Guerra Mundial de Londres, quatro irmãos ingleses são enviados para uma casa de campo onde eles estarão seguros. Um dia, Lucy encontra um guarda-roupa que a transporta para um mundo mágico chamado Nárnia. Depois de voltar, ela logo volta a Nárnia com seus irmãos, Peter e Edmund, e sua irmã, Susan. Lá eles se juntam ao leão mágico, Aslan, na luta contra a Feiticeira Branca."
         },
         {
             "id": 2,
             "id-categoria": 2,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+            "direcao": "Alfonso Cuarón",
+            "ano": "2004",
+            "sinopse": "É o início do terceiro ano na escola de bruxaria Hogwarts. Harry, Ron e Hermione têm muito o que aprender. Mas uma ameaça ronda a escola e ela se chama Sirius Black. Após doze anos encarcerado na prisão de Azkaban, ele consegue escapar e volta para vingar seu mestre, Lord Voldemort. Para piorar, os Dementores, guardas supostamente enviados para proteger Hogwarts e seguir os passos de Black, parecem ser ameaças ainda mais perigosas."
         },
         {
             "id": 3,
             "id-categoria": 2,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "As Crônicas de Spiderwick",
+            "direcao": "Mark Waters",
+            "ano": "2008",
+            "sinopse": "Dos três filhos de Grace, Jared sempre foi considerado o causador de problemas. Assim, quando coisas estranhas acontecem depois que a família se muda para uma propriedade arruinada, a irmã Mallory, o irmão gêmeo Simon e a mãe pensam que Jared é o responsável por tudo. Na verdade, eles descobrem que criaturas mágicas que vagueiam pelas terras querem o livro mágico que Jared encontrou, um guia sobre criaturas fantásticas, escrito por Arthur Spiderwick."
         },
         {
             "id": 4,
             "id-categoria": 2,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Jumanji",
+            "direcao": "Joe Johnston",
+            "ano": "1996",
+            "sinopse": "Alan Parrish desapareceu quando era menino e ninguém acredita na história de seu amigo de que ele foi sugado por um jogo de tabuleiro. Vinte e seis anos depois, duas crianças acham o jogo no sótão e, quando começam a jogar, Alan é libertado. Mas a disputa ainda não acabou e Alan precisa terminar antes de ser realmente solto."
         },
         {
             "id": 5,
             "id-categoria": 2,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "A Fantástica Fábrica de Chocolate",
+            "direcao": "Tim Burton",
+            "ano": "2005",
+            "sinopse": "Baseado no conto de Roald Dahl, este cômico e fantástico filme segue o jovem Charlie Bucket e seu avô Joe. Eles se juntam a um pequeno grupo de ganhadores de uma competição, os quais vão para um passeio na mágica e misteriosa fábrica do excêntrico Willy Wonka. Ajudado por seus anões trabalhadores, Wonka esconde uma surpresa para durante o passeio."
         }
     ],
     "herois": [
