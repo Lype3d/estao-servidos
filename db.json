@@ -87,42 +87,42 @@
         {
             "id": 1,
             "id-categoria": 3,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Batman: O Cavaleiro das Trevas",
+            "direcao": "Christopher Nolan",
+            "ano": "2008",
+            "sinopse": "Com a ajuda de Jim Gordon e Harvey Dent, Batman tem mantido a ordem na cidade de Gotham. Mas um jovem e anárquico criminoso conhecido como Coringa ganha força e decide instaurar um verdadeiro caos na cidade. O justiceiro será testado psicologicamente e fisicamente como nunca fora antes em um confronto bastante pessoal. Cabe a Batman encontrar uma maneira de deter o sádico vilão antes que mais vidas sejam perdidas."
         },
         {
             "id": 2,
             "id-categoria": 3,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Homem-Aranha: Sem Volta para Casa",
+            "direcao": "Jon Watts",
+            "ano": "2021",
+            "sinopse": "Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um feitiço para reverter o evento não sai como o esperado, o Homem-Aranha e seu companheiro dos Vingadores precisam enfrentar inimigos de todo o multiverso."
         },
         {
             "id": 3,
             "id-categoria": 3,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Homem-Aranha no Aranhaverso",
+            "direcao": "Peter Ramsey, Bob Persichetti, Rodney Rothman",
+            "ano": "2019",
+            "sinopse": "Após ser atingido por uma teia radioativa, Miles Morales, um jovem negro do Brooklyn, se torna o Homem-Aranha, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha."
         },
         {
             "id": 4,
             "id-categoria": 3,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Capitão América 2: O Soldado Invernal",
+            "direcao": "Anthony Russo, Joe Russo",
+            "ano": "2014",
+            "sinopse": "Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, também conhecido como Capitão América, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal."
         },
         {
             "id": 5,
             "id-categoria": 3,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "O Homem de Aço",
+            "direcao": "Zack Snyder",
+            "ano": "2013",
+            "sinopse": "Com a iminente destruição de Krypton, seu planeta natal, Jor-El e sua mulher procuram preservar a raça enviando o filho recém-nascido para a Terra. A nave espacial da criança aterrissa na fazenda de Jonathan e Martha Kent, que o batizam de Clark e o criam como seu próprio filho. Apesar das habilidades extraordinárias levarem o Clark adulto a viver à margem da sociedade, ele precisa se tornar um herói para salvar aqueles que ama de uma terrível ameaça."
         }
     ],
     "comedia": [
