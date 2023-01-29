@@ -1,19 +1,170 @@
 {
-    "posts": [
+    "primeirarota": [
         {
             "id": 1,
-            "title": "json-server",
-            "author": "typicode"
+            "id-categoria": 1,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 2,
+            "id-categoria": 1,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 3,
+            "id-categoria": 1,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 4,
+            "id-categoria": 1,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 5,
+            "id-categoria": 1,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
         }
     ],
-    "comments": [
+    "segundarota": [
         {
             "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "id-categoria": 2,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 2,
+            "id-categoria": 2,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 3,
+            "id-categoria": 2,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 4,
+            "id-categoria": 2,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 5,
+            "id-categoria": 2,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
         }
     ],
-    "profile": {
-        "name": "typicode"
-    }
+    "terceirarota": [
+        {
+            "id": 1,
+            "id-categoria": 3,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 2,
+            "id-categoria": 3,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 3,
+            "id-categoria": 3,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 4,
+            "id-categoria": 3,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 5,
+            "id-categoria": 3,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        }
+    ],
+    "quartarota": [
+        {
+            "id": 1,
+            "id-categoria": 4,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 2,
+            "id-categoria": 4,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 3,
+            "id-categoria": 4,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 4,
+            "id-categoria": 4,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        },
+        {
+            "id": 5,
+            "id-categoria": 4,
+            "titulo": "json-server",
+            "direcao": "typicode",
+            "ano": "json-server",
+            "sinopse": "typicode"
+        }
+    ]
 }
