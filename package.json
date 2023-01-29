@@ -1,0 +1,19 @@
+{
+  "name": "estao-servidos",
+  "version": "1.0.0",
+  "description": "- O termo “Json-server” é utilizado para descrever um servidor (pode também ser  correlacionado a um garçom) que serve dados no formato Json. Neste projeto, você irá  desenvolver um servidor json (Json-server)  com 3 ou mais rotas,  a entidade que será utilizada nas rotas precisa ter 4 ou mais atributos. E atenção, o servidor criado neste projeto será utilizado no projeto em grupos!\r ## Mecânica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dualsgo/estao-servidos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dualsgo/estao-servidos/issues"
+  },
+  "homepage": "https://github.com/dualsgo/estao-servidos#readme"
+}
