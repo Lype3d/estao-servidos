@@ -1,47 +1,47 @@
 {
-    "primeirarota": [
+    "sci-fi": [
         {
             "id": 1,
             "id-categoria": 1,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "No Limite do Amanhã",
+            "direcao": "Doug Liman",
+            "ano": "2014",
+            "sinopse": "Em uma guerra contra alienígenas, William Cage descobre que tem a estranha habilidade de voltar no tempo, ficando preso em um eterno ciclo. Ele treina para usar suas novas habilidades, derrotar os invasores e acabar com a guerra."
         },
         {
             "id": 2,
             "id-categoria": 1,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Oblivion",
+            "direcao": "Joseph Kosinski",
+            "ano": "2013",
+            "sinopse": "Em 2077, Jack Harper é o responsável pela manutenção de equipamentos de segurança em um planeta Terra irreconhecível, que foi destruído por uma raça alienígena. O que restou da humanidade vive hoje em uma colônia lunar, para onde Jack irá assim que terminar seu trabalho na Terra. Porém um dia, ele encontra a espaçonave de uma mulher e, ao conhecê-la, tudo o que Jack sabe até então é posto em dúvida, iniciando-se uma jornada em que ele precisará descobrir o que realmente aconteceu no passado."
         },
         {
             "id": 3,
             "id-categoria": 1,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Interestelar",
+            "direcao": "Christopher Nolan",
+            "ano": "2014",
+            "sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar."
         },
         {
             "id": 4,
             "id-categoria": 1,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Prometheus",
+            "direcao": "Ridley Scott",
+            "ano": "2012",
+            "sinopse": "Este prelúdio do filme Alien conta a história de uma equipe de cientistas que embarca em uma jornada espacial para descobrir a verdade sobre a origem da raça humana. No planeta de destino, eles encontram criaturas poderosas e revelações assustadoras."
         },
         {
             "id": 5,
             "id-categoria": 1,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Passageiros",
+            "direcao": "Morten Tyldum",
+            "ano": "2017",
+            "sinopse": "Dois passageiros acordam 90 anos antes do tempo programado durante uma viagem de rotina no espaço devido a um mau funcionamento de suas cabines. Sozinhos, Jim e Aurora começam a estreitar o seu relacionamento. Entretanto, a paz é ameaçada quando eles descobrem que a nave está correndo um sério risco e que eles são os únicos capazes de salvar os mais de cinco mil colegas em sono profundo."
         }
     ],
-    "segundarota": [
+    "fantasia": [
         {
             "id": 1,
             "id-categoria": 2,
