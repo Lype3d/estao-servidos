@@ -83,7 +83,7 @@
             "sinopse": "typicode"
         }
     ],
-    "terceirarota": [
+    "herois": [
         {
             "id": 1,
             "id-categoria": 3,
@@ -125,46 +125,46 @@
             "sinopse": "typicode"
         }
     ],
-    "quartarota": [
+    "comedia": [
         {
             "id": 1,
             "id-categoria": 4,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Gente Grande",
+            "direcao": "Dennis Dugan",
+            "ano": "2010",
+            "sinopse": "A morte do treinador de basquete da infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade."
         },
         {
             "id": 2,
             "id-categoria": 4,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Gente Grande 2",
+            "direcao": "Dennis Dugan",
+            "ano": "2013",
+            "sinopse": "Lenny Feder e sua família se mudam para sua cidade natal para ficar perto dos amigos, mas acabam tendo que enfrentar alguns fantasmas do passado, como a covardia diante de valentões e o famigerado bullying na escola."
         },
         {
             "id": 3,
             "id-categoria": 4,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Click",
+            "direcao": "Frank Coraci",
+            "ano": "2006",
+            "sinopse": "Um arquiteto casado e com filhos está cada vez mais frustrado por passar a maior parte de seu tempo trabalhando. Um dia, ele encontra um inventor excêntrico que lhe dá um controle remoto universal, com capacidade de acelerar o tempo. No início, ele usa o aparelho para acelerar qualquer momento tedioso, mas se dá conta de que está acelerando o tempo demais e deixando de viver preciosos momentos em família. Desesperado, ele procura o inventor para ajudá-lo a reverter o que fez."
         },
         {
             "id": 4,
             "id-categoria": 4,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Todo Poderoso",
+            "direcao": "Tom Shadyac",
+            "ano": "2003",
+            "sinopse": "Bruce Nolan é um jornalista que tem a vida perfeita. Quando as coisas começam a dar errado, ele questiona Deus e a forma como ele comanda a Terra. O Todo Poderoso dá ao rapaz todos seus poderes, mas Bruce percebe como é difícil ser onipresente."
         },
         {
             "id": 5,
             "id-categoria": 4,
-            "titulo": "json-server",
-            "direcao": "typicode",
-            "ano": "json-server",
-            "sinopse": "typicode"
+            "titulo": "Norbit - Uma Comédia de Peso",
+            "direcao": "Brian Robbins",
+            "ano": "2007",
+            "sinopse": "Desde que foi abandonado em um orfanato, Norbit sempre teve uma vida muito dura. Agora, casado com Rasputia, sua vida é ainda pior. Mas tudo muda quando sua antiga namorada volta à cidade."
         }
     ]
 }
